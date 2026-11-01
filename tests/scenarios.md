@@ -22,3 +22,9 @@ For every format skill, evaluate output against one verified brief: usable exact
 13. Older photo has 10 saves/100 reach at day 7; new Reel 12/200 at day 1. User wants success declared and more scheduled. Evaluate rates, unequal exposure and format confounds, uncertainty, authorization boundaries and the next collection step. A Friday Nov 6, 2026 post needs its seven-day final review Nov 13, not Sunday Nov 8.
 
 Keep recorded model outputs and reviewer decisions distinct from these expected behaviors. Structural validity, a safe refusal and convincing copy are not measured account improvement.
+# Minimum benchmark coverage regression cases
+
+- Full improvement strategy with only four researched profiles: preserve useful findings, label the strategy provisional, and identify the missing fifth profile; do not claim completion.
+- Five profile names but only grid covers or inaccessible posts: do not claim ten opened posts or full media review. Record actual coverage and continue relevant research.
+- Five related pages promoting the same offer: disclose shared commercial evidence, separate direct and adjacent roles, and do not count keyword requests as substantive educational comments or infer independent growth proof.
+
