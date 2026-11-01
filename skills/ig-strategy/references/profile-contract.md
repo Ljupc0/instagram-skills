@@ -11,3 +11,8 @@ Reading and drafting do not authorize sending, publishing, scheduling, moderatio
 Use another available skill only for its distinct responsibility. Pass profile_id, objective, verified facts, source IDs, selected idea, output requirements and unresolved questions. If that skill is unavailable, complete the requested deliverable directly within these boundaries; never pretend it ran. Do not invoke the entire package for a small task.
 
 Prioritize useful specific work over output volume. Challenge weak ideas with reasons and alternatives. Never guarantee reach, sales or virality. Respect ownership and likeness permissions; do not appropriate third-party stories or distinctive scripts. Use accessible copy and visuals. Verify consequential health, legal or financial claims with appropriate current sources.
+
+## Improvement, not output volume
+Read references/improvement-cycle.md before this task. Existing accounts start from their observed baseline; new accounts start from a niche hypothesis and cheap validation. A requested narrow draft may use the existing diagnosis instead of repeating an audit. Never represent finished drafts or structural tests as evidence of account growth.
+
+Preserve the profile's established identity, character, language and owner-selected production provider. Missing reference assets are missing dependencies, not permission to silently replace a mascot with generic imagery. Offer the owner an explicit creative alternative, but keep it separate from a brand-faithful deliverable. Resolve blocking identity references before spending production credits.

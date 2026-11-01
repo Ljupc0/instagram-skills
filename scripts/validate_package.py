@@ -4,9 +4,12 @@ import re
 
 root = Path(__file__).resolve().parents[1]
 folders = sorted((root / 'skills').iterdir())
-assert len(folders) == 19, f'Expected 19 skills, got {len(folders)}'
+manifest = json.loads((root / 'skill-manifest.json').read_text(encoding='utf-8'))
+assert sorted(p.name for p in folders) == sorted(manifest['skills'])
+assert len(manifest['skills']) == len(set(manifest['skills']))
 contracts = []
 templates = []
+cycles = []
 for folder in folders:
     text = (folder / 'SKILL.md').read_text(encoding='utf-8')
     assert text.startswith('---\n')
@@ -25,7 +28,12 @@ for folder in folders:
     assert 25 <= len(short) <= 64, (folder, len(short))
     contracts.append((folder / 'references/profile-contract.md').read_bytes())
     templates.append((folder / 'references/profile-template.md').read_bytes())
+    contract = (folder / 'references/profile-contract.md').read_text(encoding='utf-8')
+    for relative in re.findall(r'references/[a-z-]+\.md', contract):
+        assert (folder / relative).is_file(), (folder, relative)
+    cycles.append((folder / 'references/improvement-cycle.md').read_bytes())
 assert len(set(contracts)) == 1
 assert len(set(templates)) == 1
+assert len(set(cycles)) == 1
 assert not (root / 'profiles').exists(), 'Keep real profile data outside the package'
-print('PASS: 19 skills; metadata, references, UI prompts and shared contracts valid.')
+print(f'PASS: {len(folders)} skills; manifest, metadata, references, UI prompts and shared contracts valid.')

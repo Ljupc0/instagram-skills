@@ -137,6 +137,13 @@ Analyze opening seconds, tension, payoff, visual pattern, pace, length, share mo
 Deliver an evidence table, transferable mechanisms and five original concepts matched to the offer and capacity. Rank by relevance, differentiation, evidence and effort, not fictional viral probabilities. Add controlled tests with primary metrics and review windows. Hand selected ideas to hooks/scripts when available. Do not copy distinctive expression or infer unavailable video contents.'''),
 ]
 
+from workflows_v2 import CONTRACT_ADDENDUM, TEMPLATE_ADDENDUM, IMPROVEMENT_CYCLE, ADDITIONS, NEW_SKILLS
+
+CONTRACT += CONTRACT_ADDENDUM
+TEMPLATE += TEMPLATE_ADDENDUM
+SKILLS = [(name, title, desc, workflow + '\n\n## Improvement responsibility\n\n' + ADDITIONS[name])
+          for name, title, desc, workflow in SKILLS] + NEW_SKILLS
+
 def build():
     for name, title, desc, workflow in SKILLS:
         folder = ROOT / 'skills' / name
@@ -148,11 +155,13 @@ def build():
             'When creating or repairing a brief, use [references/profile-template.md](references/profile-template.md).\n\n## Workflow\n\n'+workflow+'\n', encoding='utf-8')
         (folder / 'references/profile-contract.md').write_text(CONTRACT, encoding='utf-8')
         (folder / 'references/profile-template.md').write_text(TEMPLATE, encoding='utf-8')
+        (folder / 'references/improvement-cycle.md').write_text(IMPROVEMENT_CYCLE, encoding='utf-8')
         short = (title+' for Instagram')[:64]
         (folder / 'agents/openai.yaml').write_text(
             'interface:\n  display_name: '+json.dumps(title)+
             '\n  short_description: '+json.dumps(short)+
             '\n  default_prompt: '+json.dumps('Use $'+name+' for the selected Instagram profile.')+'\n',encoding='utf-8')
+    (ROOT / 'skill-manifest.json').write_text(json.dumps({'version': '0.2.0', 'skills': [s[0] for s in SKILLS]}, indent=2)+'\n', encoding='utf-8')
     print('Built',len(SKILLS),'skills')
 
 if __name__ == '__main__':

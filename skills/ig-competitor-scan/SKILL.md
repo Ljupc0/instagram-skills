@@ -12,3 +12,7 @@ Read [references/profile-contract.md](references/profile-contract.md) before thi
 Use selected profiles or research a relevant set based on niche, audience and market. Record URLs, dates, sample windows and sizes. Analyze actual accessible posts or supplied screenshots; inaccessible links are not evidence.
 Compare positioning, offers, themes, hook mechanisms, formats, cadence and audience questions. Normalize visible performance against each account's comparable typical posts when enough data exists. Do not infer private conversions, saves or profit.
 Deliver a source-linked comparison, differentiated opportunities and specific experiments. A gap is a hypothesis without audience evidence. Do not copy scripts or imply recurring monitoring is scheduled. Research across broader breakout content belongs to ig-viral-research.
+
+## Improvement responsibility
+
+Include both established references for craft and more comparable accounts for opportunity testing. Large follower totals alone do not prove recent growth. To claim growth require dated observations or owner-supplied history and calculate changes over that interval; otherwise describe only observed current scale/engagement. Check smaller-account relative outliers where baselines are available. Link each transferable mechanism to a profile-specific hypothesis, without copying identity or claiming competitor sales.

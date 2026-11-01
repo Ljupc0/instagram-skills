@@ -11,3 +11,7 @@ Read [references/profile-contract.md](references/profile-contract.md) before thi
 
 Choose a slide count suited to the idea and requested scope. Build a specific cover promise, sequential teaching or argument, evidence and a final useful action. One main point per slide; do not stretch a small idea into filler.
 Deliver slide number | headline | exact body copy | visual direction | alt-text draft. Keep copy readable on a phone and slides coherent as a sequence. Distinguish illustrative examples from evidence. Include a caption handoff. Use visual generation only when requested and within its approval rules.
+
+## Improvement responsibility
+
+Carry brand invariants and experiment ID into the slide brief. Keep the recurring character and approved reference where the profile depends on it. Show a concrete explanation or scenario, not a pile of motivational assertions. Review opening promise and final payoff before calling copy ready for design.

@@ -21,3 +21,12 @@ Create outside the package. Fill known values; mark unknowns explicitly.
 - Unknowns, hypotheses, next review:
 
 Keep raw message exports access-limited and separate. Retain only task-relevant data according to the owner's instructions.
+
+- Mode: improve-existing / validate-new:
+- Baseline dates, sources, metric definitions, exposure ages and gaps:
+- Primary bottleneck, supporting evidence and confidence:
+- Brand invariants: character/reference files, palette, voice, language, recurring format:
+- User-selected provider and duration/format constraints:
+- Competitor benchmark sources, comparable cohort and dated observations:
+- Experiment IDs, primary metric, guardrail, review dates and decision rules:
+- Evidence status: proposed / production-checked / published / measured / replicated:

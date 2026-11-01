@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Instagram niche validation"
+  short_description: "New Instagram niche validation for Instagram"
+  default_prompt: "Use $ig-niche-research for the selected Instagram profile."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram content production review"
+  short_description: "Instagram content production review for Instagram"
+  default_prompt: "Use $ig-quality-review for the selected Instagram profile."

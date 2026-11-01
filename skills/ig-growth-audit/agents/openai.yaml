@@ -1,0 +1,4 @@
+interface:
+  display_name: "Existing Instagram growth diagnosis"
+  short_description: "Existing Instagram growth diagnosis for Instagram"
+  default_prompt: "Use $ig-growth-audit for the selected Instagram profile."

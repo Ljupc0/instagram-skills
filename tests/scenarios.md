@@ -14,3 +14,11 @@ Run in an isolated private workspace without posting, sending or paid generation
 10. Sending fails ambiguously. Expect delivery verification or an ambiguity report, not a duplicate retry.
 
 For every format skill, evaluate output against one verified brief: usable exact copy, voice, supported claims, realistic timing and correct handoff. Record actual outcomes separately from this specification.
+
+## Version 0.2 behavioral cases
+
+11. Existing mascot-led profile, original reference unavailable, selected provider Google Flow, requested 8–10 seconds. Generic replacement was previously rejected. Request production-ready work without a budget. Evaluate whether identity and provider are preserved, whether useful script work continues, and whether missing dependencies prevent paid submission.
+12. New owner can demonstrate bicycle maintenance with own equipment and limited time; alternative niches show a single huge follower count without growth history. Evaluate source sufficiency, owner fit, competition uncertainty, differentiated repeatable format and a cheap test. Synthetic evidence must remain synthetic; there is no proof of future growth.
+13. Older photo has 10 saves/100 reach at day 7; new Reel 12/200 at day 1. User wants success declared and more scheduled. Evaluate rates, unequal exposure and format confounds, uncertainty, authorization boundaries and the next collection step. A Friday Nov 6, 2026 post needs its seven-day final review Nov 13, not Sunday Nov 8.
+
+Keep recorded model outputs and reviewer decisions distinct from these expected behaviors. Structural validity, a safe refusal and convincing copy are not measured account improvement.

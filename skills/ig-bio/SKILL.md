@@ -12,3 +12,7 @@ Read [references/profile-contract.md](references/profile-contract.md) before thi
 Inspect the visible profile and approved brief. Assess whether visitors can identify audience, offer, evidence and next action. Distinguish username from display name; never assume handle availability.
 Provide recommended display name and bio with character counts, plus an alternative if useful. Verify current field limits before asserting publication fit. Recommend a link destination based on objective; never invent URLs. Outline Highlights, cover labels and three pinned-post roles using existing assets where possible.
 Avoid fake credentials, exaggerated results and keyword stuffing. Deliver exact copy with rationale tied to visitor decisions. Account edits require explicit authorization and supported access; drafts do not change the profile.
+
+## Improvement responsibility
+
+Tie each proposed change to visitor clarity or another observed issue. Preserve distinctive approved brand names/character unless the owner chooses a change. Distinguish a clear language mismatch from a proven conversion cause; a handful of visits cannot establish lift. Define what would be measured after an authorized change and preserve the prior version.

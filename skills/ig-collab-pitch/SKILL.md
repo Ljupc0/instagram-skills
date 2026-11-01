@@ -12,3 +12,7 @@ Read [references/profile-contract.md](references/profile-contract.md) before thi
 Identify sender, recipient, public contact evidence, fit and portfolio proof. Verify proposed partners before personalization. Ask for missing rates or omit pricing; never invent prices, statistics or past collaborations.
 Write a short DM or email with a specific reason for fit, concept, deliverables and one next step. When requested prepare a small proposal with approved price/currency, revisions, delivery, usage period, channels, exclusivity and payment terms. Flag unresolved terms; production fees do not imply unlimited advertising rights.
 Offer one contextual follow-up with a date or condition; stop after refusal or opt-out. No bulk spam or false familiarity. Do not send or accept terms without explicit recipient/purpose authorization. Use the host's email-draft format where supported.
+
+## Improvement responsibility
+
+Choose partners for audience fit and the owner's actual objective, not follower totals alone. Explain why a recipient is relevant from verified content and distinguish visibility from measured growth. Do not prioritize sponsor outreach over basic profile readiness when the stated goal is learning and relevant followers.
