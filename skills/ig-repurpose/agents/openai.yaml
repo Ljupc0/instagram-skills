@@ -1,0 +1,4 @@
+interface:
+  display_name: "Original content adaptations"
+  short_description: "Original content adaptations for Instagram"
+  default_prompt: "Use $ig-repurpose for the selected Instagram profile."

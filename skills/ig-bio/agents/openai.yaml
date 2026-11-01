@@ -1,0 +1,4 @@
+interface:
+  display_name: "Profile and bio optimization"
+  short_description: "Profile and bio optimization for Instagram"
+  default_prompt: "Use $ig-bio for the selected Instagram profile."

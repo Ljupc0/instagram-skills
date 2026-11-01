@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram performance analysis"
+  short_description: "Instagram performance analysis for Instagram"
+  default_prompt: "Use $ig-analytics for the selected Instagram profile."

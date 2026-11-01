@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interactive Story sequences"
+  short_description: "Interactive Story sequences for Instagram"
+  default_prompt: "Use $ig-stories for the selected Instagram profile."

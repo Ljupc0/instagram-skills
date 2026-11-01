@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitor profile comparison"
+  short_description: "Competitor profile comparison for Instagram"
+  default_prompt: "Use $ig-competitor-scan for the selected Instagram profile."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comment reply drafts"
+  short_description: "Comment reply drafts for Instagram"
+  default_prompt: "Use $ig-comment-reply for the selected Instagram profile."

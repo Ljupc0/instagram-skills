@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly publishing and connection plan"
+  short_description: "Weekly publishing and connection plan for Instagram"
+  default_prompt: "Use $ig-content-plan for the selected Instagram profile."

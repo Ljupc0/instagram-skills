@@ -1,0 +1,4 @@
+interface:
+  display_name: "Breakout content research"
+  short_description: "Breakout content research for Instagram"
+  default_prompt: "Use $ig-viral-research for the selected Instagram profile."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slide-by-slide carousel writing"
+  short_description: "Slide-by-slide carousel writing for Instagram"
+  default_prompt: "Use $ig-carousel for the selected Instagram profile."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Profile interview and brand brief"
+  short_description: "Profile interview and brand brief for Instagram"
+  default_prompt: "Use $ig-brief for the selected Instagram profile."

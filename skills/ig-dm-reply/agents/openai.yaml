@@ -1,0 +1,4 @@
+interface:
+  display_name: "Direct-message reply drafts"
+  short_description: "Direct-message reply drafts for Instagram"
+  default_prompt: "Use $ig-dm-reply for the selected Instagram profile."

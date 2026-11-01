@@ -1,0 +1,4 @@
+interface:
+  display_name: "Timed Reel scripts and shot directions"
+  short_description: "Timed Reel scripts and shot directions for Instagram"
+  default_prompt: "Use $ig-reel-script for the selected Instagram profile."

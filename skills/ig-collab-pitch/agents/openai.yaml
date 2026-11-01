@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand collaboration pitches"
+  short_description: "Brand collaboration pitches for Instagram"
+  default_prompt: "Use $ig-collab-pitch for the selected Instagram profile."

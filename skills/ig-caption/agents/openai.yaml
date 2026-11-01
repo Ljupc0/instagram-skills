@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instagram captions and hashtags"
+  short_description: "Instagram captions and hashtags for Instagram"
+  default_prompt: "Use $ig-caption for the selected Instagram profile."

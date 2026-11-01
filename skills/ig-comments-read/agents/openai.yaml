@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read and triage comments"
+  short_description: "Read and triage comments for Instagram"
+  default_prompt: "Use $ig-comments-read for the selected Instagram profile."

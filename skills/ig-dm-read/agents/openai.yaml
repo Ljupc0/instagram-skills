@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read and prioritize messages"
+  short_description: "Read and prioritize messages for Instagram"
+  default_prompt: "Use $ig-dm-read for the selected Instagram profile."

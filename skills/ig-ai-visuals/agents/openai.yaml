@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI visual production workflow"
+  short_description: "AI visual production workflow for Instagram"
+  default_prompt: "Use $ig-ai-visuals for the selected Instagram profile."

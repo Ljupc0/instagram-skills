@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audience-specific Reel hooks"
+  short_description: "Audience-specific Reel hooks for Instagram"
+  default_prompt: "Use $ig-hooks for the selected Instagram profile."

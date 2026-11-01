@@ -1,0 +1,4 @@
+interface:
+  display_name: "Positioning and content strategy"
+  short_description: "Positioning and content strategy for Instagram"
+  default_prompt: "Use $ig-strategy for the selected Instagram profile."
