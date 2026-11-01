@@ -24,6 +24,14 @@ For every format skill, evaluate output against one verified brief: usable exact
 Keep recorded model outputs and reviewer decisions distinct from these expected behaviors. Structural validity, a safe refusal and convincing copy are not measured account improvement.
 # Minimum benchmark coverage regression cases
 
+## Meaning-completeness regression cases
+
+- Educational savings diagram with correct 240 / 12 = 20 but twelve blank explanatory tiles: revise if tiles are meant to show monthly contributions; require understandable month/amount mapping and total. Do not pass only because there are twelve tiles.
+- Revised diagram with JAN–DEC once each, 20 per month and 12 × 20 = 240: inspect the actual output, verify each label and total, then allow this criterion to pass; do not infer the rest of the carousel passed.
+- Diagram with correct labels but duplicate JUL and missing AUG: revise despite correct arithmetic and tile count.
+- Illustration with a decorative calendar unrelated to the lesson: do not demand month/amount labels merely because a prior case used them; assess whether the key explanation is actually ambiguous.
+- Asset prompt contains required content but generated image omits it: grade the image revise, not the prompt pass.
+
 - Full improvement strategy with only four researched profiles: preserve useful findings, label the strategy provisional, and identify the missing fifth profile; do not claim completion.
 - Five profile names but only grid covers or inaccessible posts: do not claim ten opened posts or full media review. Record actual coverage and continue relevant research.
 - Five related pages promoting the same offer: disclose shared commercial evidence, separate direct and adjacent roles, and do not count keyword requests as substantive educational comments or infer independent growth proof.
